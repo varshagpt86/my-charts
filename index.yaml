@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  activemq:
+  - apiVersion: v1
+    created: "2021-04-15T18:38:51.7802599+02:00"
+    digest: 79e61524785064b643c86f4f3db38be7429b93e33c63c354823fe7fb2af98261
+    name: activemq
+    urls:
+    - https://github.com/varshagpt86/my-charts/releases/download/activemq-0.0.0-master/activemq-0.0.0-master.tgz
+    version: 0.0.0-master
+  library-mgmt-frontend:
+  - apiVersion: v1
+    created: "2021-04-15T18:38:51.9801795+02:00"
+    digest: 0f7b3616488ad5cb4e545080bbec26fb4bf803df609f6d1b0d26a4415ae1a998
+    name: library-mgmt-frontend
+    urls:
+    - https://github.com/varshagpt86/my-charts/releases/download/library-mgmt-frontend-0.0.0-master/library-mgmt-frontend-0.0.0-master.tgz
+    version: 0.0.0-master
+  mongodb:
+  - apiVersion: v1
+    created: "2021-04-15T18:38:52.1596599+02:00"
+    digest: 2a8077def7a7bdb8170e4846f0ae4c60961a5a2b613c2777fb2d11d73d01c03d
+    name: mongodb
+    urls:
+    - https://github.com/varshagpt86/my-charts/releases/download/mongodb-0.0.0-master/mongodb-0.0.0-master.tgz
+    version: 0.0.0-master
+generated: "2021-04-15T18:38:50.9060377+02:00"
